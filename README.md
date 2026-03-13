@@ -11,7 +11,6 @@
 [![Recharts](https://img.shields.io/badge/Recharts-2.12-22B5BF?style=for-the-badge)](https://recharts.org)
 [![Vercel](https://img.shields.io/badge/Deployed-Vercel-000000?style=for-the-badge&logo=vercel)](https://vercel.com)
 
-> 🏆 Built for **HackOverFlow · CultRang '26** — JIS College of Engineering
 
 </div>
 
