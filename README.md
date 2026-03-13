@@ -182,7 +182,7 @@ npm run dev
 
 | Variable | Where to Get |
 |----------|-------------|
-| `VITE_GROQ_API_KEY` | [console.groq.com](https://console.groq.com) → API Keys (Free) |
+| `VITE_GROQ_API_KEY` | [console.groq.com](https://console.groq.com) → API Keys |
 | `VITE_CLERK_PUBLISHABLE_KEY` | [dashboard.clerk.com](https://dashboard.clerk.com) → API Keys |
 
 ---
@@ -249,5 +249,5 @@ MIT License — free to use, modify, and distribute.
 ---
 
 <div align="center">
-  <strong>DataTalk</strong> · Amazon Sales · 50,000 orders · Powered by Groq AI
+  <strong>DataTalk</strong> · Amazon Sales · 50,000 orders · 
 </div>
