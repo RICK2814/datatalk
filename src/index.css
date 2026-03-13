@@ -1,0 +1,5 @@
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+body { background: #070c14; color: #e2e8f0; }
+::-webkit-scrollbar { width: 4px; height: 4px; }
+::-webkit-scrollbar-track { background: #070c14; }
+::-webkit-scrollbar-thumb { background: #1e2535; border-radius: 2px; }
